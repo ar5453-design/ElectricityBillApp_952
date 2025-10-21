@@ -1,6 +1,6 @@
 # ElectricityBillApp_952
 Java Swing project connected with MYSQL database
-connection using JDBX.
+connection using JDBC.
 
 ## Features
 - Add, View ,update
